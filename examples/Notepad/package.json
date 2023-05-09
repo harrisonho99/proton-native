@@ -7,7 +7,7 @@
     "start": "babel-node index.js"
   },
   "dependencies": {
-    "proton-native": "^2.0.0"
+    "proton-native": "^2.0.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
