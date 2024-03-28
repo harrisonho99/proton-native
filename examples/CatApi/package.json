@@ -14,7 +14,7 @@
     "proton-native": "^2.0.0",
     "react-redux": "^7.0.0",
     "redux": "^4.0.0",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.4.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
