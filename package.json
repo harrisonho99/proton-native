@@ -32,7 +32,7 @@
     "color": "^3.1.2",
     "file-type": "12.4.2",
     "image-size": "^0.7.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.0",
     "node-qt-napi": "^0.0.4",
     "react": "^16.12.0",
